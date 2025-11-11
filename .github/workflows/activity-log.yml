@@ -1,20 +1,12 @@
-# --------------------------------------------
-# 🧩 Activity Log Workflow (VTG56)
-# --------------------------------------------
-# This GitHub Action fetches your recent public activity (commits, PRs, issues)
-# and injects it into README.md between the markers:
-# <!--START_SECTION:activity--> and <!--END_SECTION:activity-->
-#
-# It runs hourly (adjustable) and can also be triggered manually.
-# The action used: jamesgeorge007/github-activity-readme
-# --------------------------------------------
-
 name: Update Activity (Shipping Log)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # hourly at minute 0 (adjust if needed)
+    - cron: "0 * * * *"   # runs every hour
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-activity:
@@ -27,14 +19,15 @@ jobs:
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@v0.3.0
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: 6
-          # Optional: customize template or filters here if you want
+          GH_USERNAME: VTG56
+          COMMIT_MSG: "chore: update activity section"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit & Push
+      - name: Commit & Push (safety step)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update activity" || echo "no changes"
-          git push
+          git add README.md || true
+          git commit -m "chore: update activity (auto)" || echo "no changes"
+          git push || echo "push skipped"
