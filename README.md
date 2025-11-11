@@ -34,8 +34,6 @@ Databases & Cloud: Firebase Firestore • PostgreSQL • Supabase • Google Clo
 ### 🧠 **Projects Snapshot**
 - **SpeedFriending** – Gamified networking web app for college events.  
   *Tech:* React(CRA), JavaScript, Node.js, Firebase Firestore.  
-- **Codex Frieza (Chyrp Lite Revamp)** – Modernized PHP blogging platform using Next.js + Firebase.  
-  *Tech:* Next.js, React, TailwindCSS, Firebase Auth & Firestore.  
 - **Hazard Detection & Notification System** – IoT dashboard for smoke/flame alerts via Flask + Pushbullet.  
   *Tech:* Python, Flask, Arduino, Pushbullet API.  
 - **AwareNet** – Feedback and awareness platform with App Script automation.  
@@ -51,18 +49,6 @@ Databases & Cloud: Firebase Firestore • PostgreSQL • Supabase • Google Clo
 
 ---
 
-### 📜 **Certifications**
-- Java Programming – *Infosys Springboard (2024)*  
-- C Programming – *Infosys Springboard (2024)*  
-
----
-
-### 🌟 **Extracurricular**
-- Core Committee Member – *Student Induction Program (SIP 2025)*, coordinated tech setup for SpeedFriending.  
-- Event Volunteer – *CNBC Awaaz @ RVCE*, managed registrations and logistics.  
-- Active Member – *CTF: Road to PoneGlyph*, designing security challenges.  
-
----
 
 ### 📈 **Activity & Contributions**
 ![VTG GitHub stats](https://github-readme-stats.vercel.app/api?username=VTG56&show_icons=true&hide_title=true&bg_color=00000000&title_color=1E90FF&text_color=94A3B8&icon_color=FF6B00)
@@ -80,5 +66,4 @@ Databases & Cloud: Firebase Firestore • PostgreSQL • Supabase • Google Clo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,30,50&height=5&section=footer" width="100%"/>
   <br>
-  <sub>💙 Built with curiosity • Fueled by code • Styled in blue & orange 💥</sub>
 </p>
