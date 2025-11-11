@@ -61,6 +61,7 @@ Databases & Cloud: Firebase Firestore • PostgreSQL • Supabase • Google Clo
 
 ### 🚚 **Shipping Log (auto)**
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#23](https://github.com//varunaditya27/EduSynth/pull/23) in [varunaditya27/EduSynth](https://github.com//varunaditya27/EduSynth)
 <!--END_SECTION:activity-->
 
 <p align="center">
