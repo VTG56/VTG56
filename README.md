@@ -54,7 +54,7 @@ Databases & Cloud: Firebase Firestore • PostgreSQL • Supabase • Google Clo
 ![VTG GitHub stats](https://github-readme-stats.vercel.app/api?username=VTG56&show_icons=true&hide_title=true&bg_color=00000000&title_color=1E90FF&text_color=94A3B8&icon_color=FF6B00)
 
 <p align="center">
-  <img alt="3D Contributions" src="profile-3d-contrib/VTG56-3d-contrib.png" width="640"/>
+  <img alt="3D Contributions" src="profile-3d-contrib/profile-night-rainbow.svg" width="640"/>
 </p>
 
 ---
