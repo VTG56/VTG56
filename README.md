@@ -1,12 +1,13 @@
 <div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=soft&height=250&color=0:5A189A,100:00A896&text=Vishwaradhya%20S%20Aiholli%20&fontSize=65&fontAlignY=38&desc=Growing%20with%20every%20commit%20and%20committed%20to%20growth.&descAlignY=60&fontColor=ffffff&animation=false)
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&height=250\&color=0\:FF6B00,100:1E90FF\&text=Vishwaradhya%20S%20Aiholli%20\&fontSize=65\&fontAlignY=38\&desc=Growing%20with%20every%20commit%20and%20committed%20to%20growth.\&descAlignY=60\&fontColor=ffffff\&animation=twinkling)
-
-[![GitHub](https://img.shields.io/badge/GitHub-VTG56-1E1E2E?logo=github\&logoColor=white\&style=for-the-badge\&color=1E90FF)](https://github.com/VTG56)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishwaradhya--s-1E1E2E?logo=linkedin\&logoColor=white\&style=for-the-badge\&color=0077B5)](https://www.linkedin.com/in/vishwaradhya-s)
-[![LeetCode](https://img.shields.io/badge/LeetCode-VTG56-1E1E2E?logo=leetcode\&logoColor=white\&style=for-the-badge\&color=FF6B00)](https://leetcode.com/VTG56)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-1E1E2E?logo=gmail\&logoColor=white\&style=for-the-badge\&color=D14836)](mailto:vishwaradhya.aihole@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-VTG56-1E1E2E?logo=github&logoColor=white&style=for-the-badge&color=5A189A)](https://github.com/VTG56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vishwaradhya--s-1E1E2E?logo=linkedin&logoColor=white&style=for-the-badge&color=00A896)](https://www.linkedin.com/in/vishwaradhya-s)
+[![LeetCode](https://img.shields.io/badge/LeetCode-VTG56-1E1E2E?logo=leetcode&logoColor=white&style=for-the-badge&color=9D4EDD)](https://leetcode.com/VTG56)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-1E1E2E?logo=gmail&logoColor=white&style=for-the-badge&color=F4A261)](mailto:vishwaradhya.aihole@gmail.com)
+<br>
+<br>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:1E90FF&height=2&section=footer" width="100%"/>
