@@ -183,7 +183,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#23](https://github.com//varunaditya27/EduSynth/pull/23) in [varunaditya27/EduSynth](https://github.com//varunaditya27/EduSynth)
+1. 💪 Opened PR [#4](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare/pull/4) in [BMSCE-IEEE-CS/repogenesis-healthcare](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare)
 
 <!--END_SECTION:activity-->
 
