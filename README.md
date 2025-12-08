@@ -183,7 +183,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#22](https://github.com//VTG56/Overnight_Hackathon_Nishanth_Bairy_R/pull/22) in [VTG56/Overnight_Hackathon_Nishanth_Bairy_R](https://github.com//VTG56/Overnight_Hackathon_Nishanth_Bairy_R)
+1. 💪 Opened PR [#4](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare/pull/4) in [BMSCE-IEEE-CS/repogenesis-healthcare](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare)
 
 <!--END_SECTION:activity-->
 
