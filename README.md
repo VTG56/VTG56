@@ -183,7 +183,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare/pull/4) in [BMSCE-IEEE-CS/repogenesis-healthcare](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare)
+1. ❌ Closed PR [#4](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare/pull/4) in [BMSCE-IEEE-CS/repogenesis-healthcare](https://github.com//BMSCE-IEEE-CS/repogenesis-healthcare)
 
 <!--END_SECTION:activity-->
 
