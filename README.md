@@ -141,15 +141,15 @@
 
 <p>
  <br/>
- <b>4th Place</b> — <i>RVCE CloneFest </i>  <br/>
- <b>Team:</b> Codex Frieza
+ 🥈 <b>2nd Place</b> — <i>Overnight Hackathon - 8th Mile </i>  <br/>
+ <b>Team:</b> MediBytes
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:1E90FF&height=2&section=footer" width="60%"/>
 <p>
  <br/>
- <b>4th Place</b> — <i>RVCE Hackemon</i>  <br/>
- <b>Team:</b> FastTrack
+ <b>4th Place</b> — <i>CloneFest 2025</i>  <br/>
+ <b>Team:</b> Codex Frieza
 </p>
 
 <br/>
